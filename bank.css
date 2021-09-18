@@ -1,0 +1,193 @@
+
+.outer-section{
+    height: 100vh;
+    background-color: rosybrown;
+}
+
+.home-section{
+    height:85%;
+    width: 90%;
+    background-color: palegoldenrod;
+    border-radius: 16px;
+}
+
+.content{
+    height: 300px;
+    width: 40%;
+    border-radius: 16px;
+}
+.image{
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+}
+
+.home-heading{
+    color: papayawhip;
+    font-family: "Roboto";
+}
+
+.para{
+    color: white;
+    font-family: "Roboto";
+}
+
+.logo{
+    height: 80px;
+    width: 100px;
+}
+
+#navItem1{
+    color: oldlace;
+    font-family: "Roboto";
+}
+
+#navItem2{
+    color: oldlace;
+    font-family: "Roboto";
+}
+
+#navItem3{
+    color: oldlace;
+    font-family: "Roboto";
+}
+
+#navItem4{
+    color: oldlace;
+    font-family: "Roboto";
+}
+
+.users-container{
+    background-color: #002939;
+}
+
+.userdata{
+    background-color: #e4cfa9;
+    border-radius: 16px;
+}
+
+.user-image{
+    height: 150px;
+    width: 100px;
+    border-radius: 16px;
+}
+
+.users-heading{
+    color:#e4cfa9;
+    font-family: "Roboto";
+}
+
+.username{
+    font-family: "Roboto";
+    color: #002939;
+    border-radius: 10px;
+}
+
+.mail{
+    font-family: "Roboto";
+    color: #002939;
+    font-size: 20px;
+}
+
+.amount{
+    font-family: "Roboto";
+    color: #002939;
+}
+
+.balance{
+    font-family: "Roboto";
+    color: #002939;
+}
+.heading{
+    font-family: "Nidus sans";
+}
+
+.payments{
+    background-color: #f0ddbc;
+    height: 100vh;
+}
+
+.form{
+    background-color: #3a4257;
+    border-radius: 16px;
+    box-shadow: #e4cfa9;
+    vertical-align: middle;
+    margin-top: 200px;
+    width: 50%;
+}
+
+.label{
+    width: 300px;
+    border-radius: 7px;
+}
+
+.rxer{
+    color: #f0ddbc;
+    font-family: "Roboto";
+}
+
+.form-heading{
+    font-family: "Roboto";
+    color: #f0ddbc;
+}
+
+.button{
+    background-color:antiquewhite;
+    color: #3a4257;
+    height: 45px;
+    border-radius: 16px;
+}
+
+.form-image{
+    background-color: #3a4257;
+    border-radius: 16px;
+    width: 50%;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+.image-form{
+    padding: 20px;
+    width: 80%;
+    height: 80%;
+    margin-top: 30px;
+}
+
+.details-container{
+    background-color:whitesmoke;
+    border-radius: 10px;
+    width: 100vw;
+    box-shadow: #1f4590;
+}
+
+.transactions{
+    background-color:#002939;
+    min-height: 100vh;
+}
+
+.history-heading{
+    font-family: "Roboto";
+    color:#d6b0a7;
+
+}
+
+input{
+    caret-color: #002939;
+}
+
+.trans{
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.hist{
+    font-size: 30px;
+    font-family: "Roboto";
+}
+
+.history-image-container{
+    background-color: teal;
+    width: 50%;
+    border-radius: 10px;
+}
+
